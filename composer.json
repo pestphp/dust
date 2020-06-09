@@ -1,5 +1,5 @@
 {
-    "name": "pestphp/dest",
+    "name": "pestphp/dust",
     "description": "A PHP browser testing solution using Laravel Dusk and Pest",
     "keywords": [
         "php",
@@ -8,12 +8,12 @@
         "unit",
         "test",
         "testing",
-        "dest"
+        "dust"
     ],
     "license": "MIT",
     "require": {
         "php": "^7.3",
-        "pestphp/dest-internals": "^0.2"
+        "pestphp/dust-internals": "^0.2"
     },
     "autoload": {
         "psr-4": {

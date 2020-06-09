@@ -1,5 +1,5 @@
 <?php
 
-use function Dest\baseUrl;
+use function Dust\baseUrl;
 
 baseUrl('https://pestphp.com');

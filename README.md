@@ -9,9 +9,9 @@
 </p>
 
 ------
-**Dest** is a PHP browser testing solution using **[Pest](https://pestphp.com)** and **[Laravel Dusk](https://laravel.com/docs/master/dusk)**.
+**Dust** is a PHP browser testing solution using **[Pest](https://pestphp.com)** and **[Laravel Dusk](https://laravel.com/docs/master/dusk)**.
 
-- Explore the docs: **[pestphp.com/docs/dest »](https://pestphp.com/docs/dest)**
+- Explore the docs: **[pestphp.com/docs/dust »](https://pestphp.com/docs/dust)**
 - Join us on the Discord Server: **[discord.gg/bMAJv82 »](https://discord.gg/bMAJv82)**
 
 Pest was created by **[Nuno Maduro](https://twitter.com/enunomaduro)** under the **[Sponsorware license](https://github.com/sponsorware/docs)**. It got open-sourced and is now licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
