@@ -9,12 +9,9 @@
 </p>
 
 ------
-**Pest** is an elegant PHP Testing Framework with a focus on simplicity. It was carefully crafted to bring the joy of testing to PHP.
+**Dest** is a PHP browser testing solution using **[Pest](https://pestphp.com)** and **[Laravel Dusk](https://laravel.com/docs/master/dusk)**.
 
-> **Note:** This repository contains the Pest plugin template. If you want to start testing your application with Pest, visit the main [Pest repository](https://github.com/pestphp/pest).
-
-- Explore the docs: **[pestphp.com »](https://pestphp.com)**
-- Follow us on Twitter: **[@pestphp »](https://twitter.com/pestphp)**
+- Explore the docs: **[pestphp.com/docs/dest »](https://pestphp.com/docs/dest)**
 - Join us on the Discord Server: **[discord.gg/bMAJv82 »](https://discord.gg/bMAJv82)**
 
 Pest was created by **[Nuno Maduro](https://twitter.com/enunomaduro)** under the **[Sponsorware license](https://github.com/sponsorware/docs)**. It got open-sourced and is now licensed under the **[MIT license](https://opensource.org/licenses/MIT)**.
