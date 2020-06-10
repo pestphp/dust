@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/pestphp/art/master/readme.png" width="600" alt="PEST">
+    <img src="/art/banner.png" width="914" title="PEST Dust Banner">
     <p align="center">
         <a href="https://github.com/pestphp/pest/actions"><img alt="GitHub Workflow Status (master)" src="https://img.shields.io/github/workflow/status/pestphp/pest/Continuous Integration/master"></a>
         <a href="https://packagist.org/packages/pestphp/pest"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/pestphp/pest"></a>
