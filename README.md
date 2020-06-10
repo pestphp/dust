@@ -4,17 +4,17 @@
 <p align="center">
     <img src="/art/banner.png" width="914" title="PEST Dust Banner">
     <p align="center">
-        <a href="https://github.com/pestphp/pest/actions"><img alt="GitHub Workflow Status (master)" src="https://img.shields.io/github/workflow/status/pestphp/drift/Continuous Integration/master"></a>
-        <a href="https://packagist.org/packages/pestphp/drift"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/pestphp/drift"></a>
-        <a href="https://packagist.org/packages/pestphp/drift"><img alt="Latest Version" src="https://img.shields.io/packagist/v/pestphp/drift"></a>
-        <a href="https://packagist.org/packages/pestphp/drift"><img alt="License" src="https://img.shields.io/packagist/l/pestphp/drift"></a>
+        <a href="https://github.com/pestphp/pest/actions"><img alt="GitHub Workflow Status (master)" src="https://img.shields.io/github/workflow/status/pestphp/dust/Continuous Integration/master"></a>
+        <a href="https://packagist.org/packages/pestphp/dust"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/pestphp/dust"></a>
+        <a href="https://packagist.org/packages/pestphp/dust"><img alt="Latest Version" src="https://img.shields.io/packagist/v/pestphp/dust"></a>
+        <a href="https://packagist.org/packages/pestphp/dust"><img alt="License" src="https://img.shields.io/packagist/l/pestphp/dust"></a>
     </p>
 </p>
 
 ------
-**Drift** is command-line tool to migrate your PHPUnit tests to Pest.
+**Dust** is command-line tool to migrate your PHPUnit tests to Pest.
 
-- Explore the docs: **[pestphp.com/docs/drift »](https://pestphp.com/docs/drift)**
+- Explore the docs: **[pestphp.com/docs/dust »](https://pestphp.com/docs/dust)**
 - Follow us on Twitter: **[@pestphp »](https://twitter.com/pestphp)**
 - Join us on the Discord Server: **[discord.gg/bMAJv82 »](https://discord.gg/bMAJv82)**
 
