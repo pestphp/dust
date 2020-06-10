@@ -1,3 +1,6 @@
+**WARNING: This is a 'work in progress' and is not ready for use of any kind at this time.**
+
+
 <p align="center">
     <img src="/art/banner.png" width="914" title="PEST Dust Banner">
     <p align="center">
@@ -10,8 +13,6 @@
 
 ------
 **Dust** is a PHP browser testing solution using **[Pest](https://pestphp.com)** and **[Laravel Dusk](https://laravel.com/docs/master/dusk)**.
-
-** WARNING: This is a 'work in progress' and is not ready for use of any kind at this time.**
 
 - Explore the docs: **[pestphp.com/docs/dust »](https://pestphp.com/docs/dust)**
 - Follow us on Twitter: **[@pestphp »](https://twitter.com/pestphp)**
