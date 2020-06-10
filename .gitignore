@@ -1,4 +1,10 @@
 /vendor
+screenshots/*
+!screenshots/.gitkeep
+console/*
+!console/.gitkeep
+source/*
+!source/.gitkeep
 .env
 .env.backup
 .phpunit.result.cache
